@@ -10,7 +10,8 @@ Describe what your project is about and what it does
 Added the documentation branch to the Udacity GitHub project
 
 ### Updates
-added this section to keep track of Updates
+Added this section to keep track of Updates
+Modified README.md file for 3rd time as requested on Section 2 of the project.
 
 ### Files used
 Include the files used
