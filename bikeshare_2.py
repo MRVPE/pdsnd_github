@@ -208,7 +208,7 @@ def raw_data(df):
 
     #Definition of starting and ending rows of data to be Display.
     start_loc = 0
-    end_loc = 5
+    end_loc = 10
 
     data = input("Would you like to see 5 rows of raw data? ")
 
@@ -216,8 +216,8 @@ def raw_data(df):
     if data == 'yes':
         while end_loc <= df.shape[0] -1:
             print(df.iloc[start_loc:end_loc, :])
-            start_loc += 5
-            end_loc +=5
+            start_loc += 10
+            end_loc +=10
 
             stop_data = input("Do you want to continue?")
             if stop_data == 'no':
