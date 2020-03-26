@@ -12,6 +12,7 @@ Added the documentation branch to the Udacity GitHub project
 ### Updates
 Added this section to keep track of Updates
 Modified README.md file for 3rd time as requested on Section 2 of the project.
+Updated Bikeshare file lines 5-7 and 23-25
 
 ### Files used
 Include the files used
