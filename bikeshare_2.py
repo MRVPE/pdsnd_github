@@ -41,7 +41,7 @@ def get_filters():
     while True:
         day = input("\n Now enter a specific day of the week you want to look at or type 'all' if you want to look at all the days\n")
         if day not in ('Monday','monday', 'Tuesday', 'tuesday', 'Wednesday', 'wednesday','Thursday', 'thuesday', 'Friday', 'friday', 'Saturday', 'saturday', 'Sunday', 'sunday', 'all'):
-            print ("\n Please try again and input one of the choices above.")
+            print ("\n Please input one of the choices above again.")
             continue
         else:
             break
